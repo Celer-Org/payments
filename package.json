@@ -6,9 +6,6 @@
   "repository": "Celer-Org/payments",
   "main": "index.js",
   "keywords": [],
-  "publishConfig": {
-   "@PolandBOX:registry": "https://npm.pkg.github.com"
- }
   "devDependencies": {
     "axios": "^0.27.2"
   }
